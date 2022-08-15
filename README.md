@@ -22,6 +22,8 @@ In this i had build an Android Application which will calculate table of any num
 
 ## 🔗 Connect Me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashant-ranjan-singh-b9b6b9217/)
+
+
 [![linkedin](https://img.shields.io/badge/gmail-ff0000?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/?authuser=prashant.singh.12312345@gmail.com)
 
 ## 🙋 Support
