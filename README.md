@@ -7,7 +7,7 @@ In this i had build an Android Application which will calculate table of any num
 
 ## 🎥 Video of Application 🎥
 
-[![Watch the video](https://radartimikaonline.com/wp-content/uploads/2022/07/Manipuri-Viral-Video-Red.jpg)](https://dms.licdn.com/playlist/C4D05AQGXntvZs6Czvw/mp4-720p-30fp-crf28/0/1659900341565?e=1660586400&v=beta&t=hVM4HSaF4Zr-c5x3wObFjyseo25zRBwWOmqWT6froeo)
+[![Watch the video](https://radartimikaonline.com/wp-content/uploads/2022/07/Manipuri-Viral-Video-Red.jpg)](https://dms.licdn.com/playlist/C4D05AQGL5aWoaoarCA/mp4-720p-30fp-crf28/0/1660592555872?e=1661198400&v=beta&t=EOxfXF3etrY1VmjR6AKJSL-hnsJCghBcwTKc4ifm-HM)
 
 ## 📷📷 Screenshots of Application
 
